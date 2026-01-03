@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there! 👋
+
+I'm a software engineer with passion for full-stack web and native mobile development.
+
+![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![ts](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 <!--
 **VictorPuga/VictorPuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
