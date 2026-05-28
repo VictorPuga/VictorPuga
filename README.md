@@ -8,10 +8,14 @@ I'm a software engineer with passion for full-stack web and native mobile develo
 
 <details>
   <summary>Featured contributions</summary>
-  
+
+  [swiftlang/swift-docc (all)](https://github.com/swiftlang/swift-docc/issues?q=is%3Apr%20author%3A%40victorpuga)
+
   https://github.com/swiftlang/swift-docc-render/pull/982
   
   https://github.com/swiftlang/swift-docc-render/pull/992
+
+  [swiftlang/swift-docc-render (all)](https://github.com/swiftlang/swift-docc-render/issues?q=is%3Apr%20author%3A%40victorpuga)
 
   https://github.com/lo-cafe/winston/pull/476
   
